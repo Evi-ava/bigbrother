@@ -101,12 +101,30 @@ header {
     margin-top: 30px;
 }
 
+
+/* hisory */
+
+.history {
+    padding: 120px 0 107px 0;
+    background: #F6F6F6;
+}
+
 .title {
     font-weight: 700;
     font-size: 34px;
     line-height: 41px;
     text-align: center;
     color: #070707;
+    margin-bottom: 18px;
+}
+
+.text-block {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #070707;
+    margin-bottom: 30px;
 }
 
 
