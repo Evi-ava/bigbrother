@@ -145,6 +145,31 @@ header {
     margin: 0 auto;
 }
 
+.skill-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-block img {
+    margin-bottom: 25px;
+}
+
+.skill-text {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin: 0 auto;
+}
+
 
 
 
